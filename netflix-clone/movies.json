@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Movie One",
+        "image": "images/movie1.jpg"
+    },
+    {
+        "title": "Movie Two",
+        "image": "images/movie2.jpg"
+    },
+    {
+        "title": "Movie Three",
+        "image": "images/movie3.jpg"
+    }
+]
